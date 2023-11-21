@@ -19,7 +19,7 @@ import (
 	"github.com/fatedier/frp/cmd/frpc/sub"
 )
 
-// test github webhook3
+// test github webhook4
 func main() {
 	sub.Execute()
 }
